@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Joel Myrtil",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Junior Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/JMyrtil",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/joel-myrtil-72302b22b/",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "headShot.jpg"
     },
     "skills": {
       "icons": [
