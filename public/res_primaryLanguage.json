@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Code Fellow Project",
+        "startDate": "2023",
+        "description": "A project for my Code Fellows class that utilizes JA, CSS, and HTML to create an interactive website. https://jmyrtil.github.io/odd-duck/",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/p4.jpg",
+          "images/portfolio/animal-shelter/p3.jpg"
         ],
         "url": "",
         "technologies": [
